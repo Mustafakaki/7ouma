@@ -1,0 +1,29 @@
+# Android
+*.apk
+*.ap_
+*.dex
+*.class
+.gradle/
+/local.properties
+/.idea/
+/capturing/
+
+# Node.js
+node_modules/
+dist/
+build/
+*.log
+npm-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+ENV/
+.DS_Store
+*~
+*.sqlite3
